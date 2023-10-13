@@ -1,3 +1,3 @@
 # favorite food
 
-apple
+waterlemongit add src/favorite_food.md
